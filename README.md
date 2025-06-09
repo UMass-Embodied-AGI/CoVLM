@@ -6,11 +6,8 @@ This repository contains the official code for CoVLM: Composing Visual Entities 
 
 [[Project Page](https://vis-www.cs.umass.edu/CoVLM)] [[Paper](https://arxiv.org/abs/2311.03354)]
 
-## News and ToDo List
+## News
 
-* [ ] Release training scripts
-* [ ] Release pre-training dataset
-* [ ] Release demo
 * [X] 2023-11-1: Release 1.4B/2.8B checkpoint
 * [X] 2023-11-1: Release initial code
 
